@@ -5,4 +5,4 @@ Then open your browser and head to http://localhost:8080 and you should see a We
 
 Login information is **user** and **password**
 
-[src](https://spring.io/guides/gs/securing-web/)
+[guide](https://spring.io/guides/gs/securing-web/)
